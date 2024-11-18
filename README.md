@@ -1,1 +1,1 @@
-This is my second game created in Unity.
+My second game created in Unity.
